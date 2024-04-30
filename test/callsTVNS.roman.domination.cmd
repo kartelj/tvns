@@ -1,0 +1,2 @@
+bulkExecutor.exe callsTVNS.roman.domination.m0v2.txt randomSeeds.From.Random.Org.txt statConf.txt 10
+bulkExecutor.exe callsTVNS.roman.domination.m1v2.md2.txt randomSeeds.From.Random.Org.txt statConf.txt 10

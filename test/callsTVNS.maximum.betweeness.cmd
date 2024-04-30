@@ -1,0 +1,2 @@
+bulkExecutor.exe callsTVNS.maximum.betweeness.m0.txt randomSeeds.From.Random.Org.txt statConf.txt 10
+bulkExecutor.exe callsTVNS.maximum.betweeness.m1.md4.txt randomSeeds.From.Random.Org.txt statConf.txt 10

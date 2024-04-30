@@ -1,0 +1,991 @@
+
+Min d: 1
+Max d: 30
+Max md: 0
+Max local optima: 0
+Algorithm: TVNS
+Minimization: True
+Max m: 0
+Max m dynamic: False
+Effective max m: 0
+Random seed: 25505
+Max evaluations: 50000
+Evaluations made: 50000
+Iterations made: 50000
+Iteration best found: 49991
+Max execution time: 3600
+Execution time: 35.2665049 seconds
+Second best found: 35.256506
+Execution start: 4/30/2024 11:48:29 PM
+Execution end: 4/30/2024 11:49:04 PM
+Total local optima found: 9257
+Fitness value: 0.228021978021978
+Objective value: 83
+Feasible: True
+Solution code: 0,1,0,1,0,2,0,0,1,0,2,0,0,2,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,1,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,1,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,1,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,1,0,0,2,0,
+Caching: False
+Fitness calls count: 474716
+Cache hit count: 0
+Problem file: romanDomination/instances/grid/grid13x14.txt
+Dimension: 182
+Vertex count: 182
+Edge count: 337
+Improvement counts:
+m=0 d=1: 2
+m=0 d=2: 5
+m=0 d=3: 3
+m=0 d=7: 4
+m=0 d=12: 1
+Total improvements: 15
+MinObj: 82
+MaxObj: 108
+AvgObj: 82.8356919088258
+StdevObj: 2.28103024851306
+BinObj0%: 86.49
+BinObj1%: 7.42
+BinObj2%: 3.41
+BinObj3%: 1.74
+BinObj4%: 0.82
+BinObj5%: 0.08
+BinObj6%: 0
+BinObj7%: 0.03
+BinObj8%: 0
+BinObj9%: 0.01
+
+
+Shaking counts:
+m=0 d=1: 19867
+m=0 d=2: 10045
+m=0 d=3: 5353
+m=0 d=4: 3041
+m=0 d=5: 1856
+m=0 d=6: 1272
+m=0 d=7: 918
+m=0 d=8: 692
+m=0 d=9: 531
+m=0 d=10: 450
+m=0 d=11: 402
+m=0 d=12: 370
+m=0 d=13: 337
+m=0 d=14: 315
+m=0 d=15: 307
+m=0 d=16: 298
+m=0 d=17: 289
+m=0 d=18: 286
+m=0 d=19: 284
+m=0 d=20: 284
+m=0 d=21: 282
+m=0 d=22: 281
+m=0 d=23: 280
+m=0 d=24: 280
+m=0 d=25: 280
+m=0 d=26: 280
+m=0 d=27: 280
+m=0 d=28: 280
+m=0 d=29: 280
+m=0 d=30: 280
+Total shaking: 50000
+Improvement chronology:
+it=1: m=0 d=2
+it=4: m=0 d=3
+it=10: m=0 d=2
+it=19: m=0 d=1
+it=208: m=0 d=7
+it=342: m=0 d=3
+it=482: m=0 d=3
+it=625: m=0 d=2
+it=834: m=0 d=2
+it=1805: m=0 d=7
+it=2440: m=0 d=7
+it=4415: m=0 d=7
+it=5010: m=0 d=1
+it=5711: m=0 d=2
+it=5757: m=0 d=12
+Total non-zero simplices: 0
+Total control: 0
+
+
+Min d: 1
+Max d: 30
+Max md: 0
+Max local optima: 0
+Algorithm: TVNS
+Minimization: True
+Max m: 0
+Max m dynamic: False
+Effective max m: 0
+Random seed: 31295
+Max evaluations: 50000
+Evaluations made: 50000
+Iterations made: 50000
+Iteration best found: 49989
+Max execution time: 3600
+Execution time: 35.4655071 seconds
+Second best found: 35.4575072
+Execution start: 4/30/2024 11:48:29 PM
+Execution end: 4/30/2024 11:49:04 PM
+Total local optima found: 11043
+Fitness value: 0.236263736263736
+Objective value: 86
+Feasible: True
+Solution code: 2,0,2,0,0,1,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,2,0,0,2,0,0,0,1,0,0,2,0,0,0,1,1,0,0,0,2,0,1,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,2,0,0,2,0,0,0,2,0,0,0,2,0,0,1,
+Caching: False
+Fitness calls count: 458905
+Cache hit count: 0
+Problem file: romanDomination/instances/grid/grid13x14.txt
+Dimension: 182
+Vertex count: 182
+Edge count: 337
+Improvement counts:
+m=0 d=1: 6
+m=0 d=2: 4
+m=0 d=3: 3
+m=0 d=4: 2
+m=0 d=5: 2
+m=0 d=6: 2
+Total improvements: 19
+MinObj: 85
+MaxObj: 105
+AvgObj: 87.4444444444444
+StdevObj: 1.46647978195679
+BinObj0%: 5.67
+BinObj1%: 84.32
+BinObj2%: 8.76
+BinObj3%: 0.2
+BinObj4%: 0.24
+BinObj5%: 0.29
+BinObj6%: 0.09
+BinObj7%: 0.11
+BinObj8%: 0.11
+BinObj9%: 0.22
+
+
+Shaking counts:
+m=0 d=1: 20349
+m=0 d=2: 10182
+m=0 d=3: 5427
+m=0 d=4: 3021
+m=0 d=5: 1845
+m=0 d=6: 1205
+m=0 d=7: 856
+m=0 d=8: 658
+m=0 d=9: 532
+m=0 d=10: 441
+m=0 d=11: 384
+m=0 d=12: 342
+m=0 d=13: 308
+m=0 d=14: 294
+m=0 d=15: 279
+m=0 d=16: 271
+m=0 d=17: 268
+m=0 d=18: 265
+m=0 d=19: 263
+m=0 d=20: 261
+m=0 d=21: 258
+m=0 d=22: 256
+m=0 d=23: 255
+m=0 d=24: 255
+m=0 d=25: 255
+m=0 d=26: 254
+m=0 d=27: 254
+m=0 d=28: 254
+m=0 d=29: 254
+m=0 d=30: 254
+Total shaking: 50000
+Improvement chronology:
+it=4: m=0 d=1
+it=24: m=0 d=3
+it=43: m=0 d=1
+it=48: m=0 d=1
+it=84: m=0 d=6
+it=111: m=0 d=4
+it=120: m=0 d=1
+it=133: m=0 d=2
+it=160: m=0 d=2
+it=236: m=0 d=3
+it=273: m=0 d=6
+it=311: m=0 d=4
+it=323: m=0 d=1
+it=381: m=0 d=5
+it=1730: m=0 d=2
+it=3779: m=0 d=2
+it=14489: m=0 d=3
+it=46949: m=0 d=5
+it=47223: m=0 d=1
+Total non-zero simplices: 0
+Total control: 0
+
+
+Min d: 1
+Max d: 30
+Max md: 0
+Max local optima: 0
+Algorithm: TVNS
+Minimization: True
+Max m: 0
+Max m dynamic: False
+Effective max m: 0
+Random seed: 74644
+Max evaluations: 50000
+Evaluations made: 50000
+Iterations made: 50000
+Iteration best found: 49998
+Max execution time: 3600
+Execution time: 35.8175048 seconds
+Second best found: 35.8165051
+Execution start: 4/30/2024 11:48:29 PM
+Execution end: 4/30/2024 11:49:05 PM
+Total local optima found: 10613
+Fitness value: 0.228021978021978
+Objective value: 83
+Feasible: True
+Solution code: 0,2,0,0,1,0,2,0,0,1,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,1,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,1,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,1,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,1,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,1,0,0,2,0,0,0,0,2,0,0,0,1,0,0,2,0,0,2,0,1,0,0,2,0,0,2,0,0,
+Caching: False
+Fitness calls count: 491773
+Cache hit count: 0
+Problem file: romanDomination/instances/grid/grid13x14.txt
+Dimension: 182
+Vertex count: 182
+Edge count: 337
+Improvement counts:
+m=0 d=1: 9
+m=0 d=2: 13
+m=0 d=3: 2
+m=0 d=4: 1
+m=0 d=14: 1
+Total improvements: 26
+MinObj: 82
+MaxObj: 108
+AvgObj: 83.3780269480825
+StdevObj: 2.5137960220417
+BinObj0%: 75.32
+BinObj1%: 20.55
+BinObj2%: 2.45
+BinObj3%: 0.73
+BinObj4%: 0.33
+BinObj5%: 0.28
+BinObj6%: 0.09
+BinObj7%: 0.08
+BinObj8%: 0.07
+BinObj9%: 0.08
+
+
+Shaking counts:
+m=0 d=1: 19080
+m=0 d=2: 9734
+m=0 d=3: 5346
+m=0 d=4: 3132
+m=0 d=5: 1987
+m=0 d=6: 1337
+m=0 d=7: 949
+m=0 d=8: 737
+m=0 d=9: 576
+m=0 d=10: 505
+m=0 d=11: 442
+m=0 d=12: 401
+m=0 d=13: 379
+m=0 d=14: 353
+m=0 d=15: 332
+m=0 d=16: 324
+m=0 d=17: 322
+m=0 d=18: 319
+m=0 d=19: 318
+m=0 d=20: 315
+m=0 d=21: 313
+m=0 d=22: 311
+m=0 d=23: 311
+m=0 d=24: 311
+m=0 d=25: 311
+m=0 d=26: 311
+m=0 d=27: 311
+m=0 d=28: 311
+m=0 d=29: 311
+m=0 d=30: 311
+Total shaking: 50000
+Improvement chronology:
+it=3: m=0 d=2
+it=5: m=0 d=2
+it=13: m=0 d=2
+it=16: m=0 d=3
+it=18: m=0 d=2
+it=25: m=0 d=1
+it=32: m=0 d=1
+it=47: m=0 d=4
+it=49: m=0 d=2
+it=50: m=0 d=1
+it=62: m=0 d=1
+it=64: m=0 d=2
+it=128: m=0 d=2
+it=158: m=0 d=2
+it=299: m=0 d=14
+it=302: m=0 d=1
+it=343: m=0 d=2
+it=489: m=0 d=2
+it=509: m=0 d=1
+it=649: m=0 d=2
+it=1239: m=0 d=1
+it=4510: m=0 d=3
+it=5775: m=0 d=1
+it=7119: m=0 d=1
+it=9975: m=0 d=2
+it=10368: m=0 d=2
+Total non-zero simplices: 0
+Total control: 0
+
+
+Min d: 1
+Max d: 30
+Max md: 0
+Max local optima: 0
+Algorithm: TVNS
+Minimization: True
+Max m: 0
+Max m dynamic: False
+Effective max m: 0
+Random seed: 60153
+Max evaluations: 50000
+Evaluations made: 50000
+Iterations made: 50000
+Iteration best found: 49997
+Max execution time: 3600
+Execution time: 35.5235024 seconds
+Second best found: 35.5215031
+Execution start: 4/30/2024 11:48:30 PM
+Execution end: 4/30/2024 11:49:05 PM
+Total local optima found: 9656
+Fitness value: 0.233516483516484
+Objective value: 85
+Feasible: True
+Solution code: 0,0,2,0,0,1,0,2,0,0,0,2,0,2,0,0,0,2,0,0,0,0,2,0,0,1,0,0,1,0,0,0,2,0,0,0,0,2,0,0,2,0,2,0,0,0,0,2,0,0,0,1,0,0,0,0,0,2,0,0,0,0,2,0,0,2,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,2,0,0,2,0,0,0,0,2,0,0,0,0,0,1,0,0,0,2,0,0,0,0,2,0,2,0,0,2,0,0,0,0,2,0,0,0,2,0,0,1,0,0,2,0,1,0,0,2,0,0,0,2,
+Caching: False
+Fitness calls count: 475515
+Cache hit count: 0
+Problem file: romanDomination/instances/grid/grid13x14.txt
+Dimension: 182
+Vertex count: 182
+Edge count: 337
+Improvement counts:
+m=0 d=1: 6
+m=0 d=2: 5
+m=0 d=3: 3
+m=0 d=5: 2
+m=0 d=6: 2
+Total improvements: 18
+MinObj: 84
+MaxObj: 111
+AvgObj: 84.8121375310688
+StdevObj: 1.80751496369129
+BinObj0%: 83.93
+BinObj1%: 15.37
+BinObj2%: 0.26
+BinObj3%: 0.03
+BinObj4%: 0.09
+BinObj5%: 0.11
+BinObj6%: 0.12
+BinObj7%: 0.04
+BinObj8%: 0
+BinObj9%: 0.04
+
+
+Shaking counts:
+m=0 d=1: 19995
+m=0 d=2: 10070
+m=0 d=3: 5417
+m=0 d=4: 3101
+m=0 d=5: 1888
+m=0 d=6: 1239
+m=0 d=7: 868
+m=0 d=8: 638
+m=0 d=9: 512
+m=0 d=10: 443
+m=0 d=11: 385
+m=0 d=12: 345
+m=0 d=13: 326
+m=0 d=14: 313
+m=0 d=15: 300
+m=0 d=16: 288
+m=0 d=17: 284
+m=0 d=18: 281
+m=0 d=19: 280
+m=0 d=20: 279
+m=0 d=21: 277
+m=0 d=22: 275
+m=0 d=23: 275
+m=0 d=24: 275
+m=0 d=25: 275
+m=0 d=26: 275
+m=0 d=27: 274
+m=0 d=28: 274
+m=0 d=29: 274
+m=0 d=30: 274
+Total shaking: 50000
+Improvement chronology:
+it=1: m=0 d=2
+it=4: m=0 d=3
+it=5: m=0 d=1
+it=9: m=0 d=2
+it=11: m=0 d=1
+it=25: m=0 d=1
+it=32: m=0 d=2
+it=40: m=0 d=1
+it=46: m=0 d=3
+it=58: m=0 d=2
+it=63: m=0 d=5
+it=69: m=0 d=1
+it=74: m=0 d=1
+it=186: m=0 d=2
+it=5777: m=0 d=3
+it=5965: m=0 d=6
+it=7243: m=0 d=6
+it=9735: m=0 d=5
+Total non-zero simplices: 0
+Total control: 0
+
+
+Min d: 1
+Max d: 30
+Max md: 0
+Max local optima: 0
+Algorithm: TVNS
+Minimization: True
+Max m: 0
+Max m dynamic: False
+Effective max m: 0
+Random seed: 21053
+Max evaluations: 50000
+Evaluations made: 50005
+Iterations made: 50005
+Iteration best found: 50004
+Max execution time: 3600
+Execution time: 34.9165052 seconds
+Second best found: 34.9165052
+Execution start: 4/30/2024 11:48:30 PM
+Execution end: 4/30/2024 11:49:05 PM
+Total local optima found: 8991
+Fitness value: 0.230769230769231
+Objective value: 84
+Feasible: True
+Solution code: 0,2,0,0,0,2,0,1,0,0,2,0,1,1,0,0,2,0,0,0,0,2,0,0,0,1,0,2,0,0,0,0,2,0,0,0,0,2,0,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,1,0,2,0,0,0,0,2,0,0,0,0,2,0,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,1,0,2,0,0,0,0,2,0,0,0,0,2,0,1,0,1,0,2,0,0,1,0,2,0,0,1,
+Caching: False
+Fitness calls count: 437151
+Cache hit count: 0
+Problem file: romanDomination/instances/grid/grid13x14.txt
+Dimension: 182
+Vertex count: 182
+Edge count: 337
+Improvement counts:
+m=0 d=1: 12
+m=0 d=2: 3
+m=0 d=3: 1
+m=0 d=5: 1
+m=0 d=9: 1
+m=0 d=12: 1
+m=0 d=15: 1
+Total improvements: 20
+MinObj: 83
+MaxObj: 112
+AvgObj: 85.1849627405183
+StdevObj: 2.46310573985797
+BinObj0%: 78.27
+BinObj1%: 15.15
+BinObj2%: 1.47
+BinObj3%: 3.61
+BinObj4%: 0.88
+BinObj5%: 0.53
+BinObj6%: 0.03
+BinObj7%: 0
+BinObj8%: 0
+BinObj9%: 0.06
+
+
+Shaking counts:
+m=0 d=1: 20774
+m=0 d=2: 10444
+m=0 d=3: 5540
+m=0 d=4: 3129
+m=0 d=5: 1892
+m=0 d=6: 1229
+m=0 d=7: 822
+m=0 d=8: 616
+m=0 d=9: 464
+m=0 d=10: 379
+m=0 d=11: 327
+m=0 d=12: 301
+m=0 d=13: 273
+m=0 d=14: 255
+m=0 d=15: 241
+m=0 d=16: 232
+m=0 d=17: 227
+m=0 d=18: 223
+m=0 d=19: 223
+m=0 d=20: 222
+m=0 d=21: 221
+m=0 d=22: 219
+m=0 d=23: 219
+m=0 d=24: 219
+m=0 d=25: 219
+m=0 d=26: 219
+m=0 d=27: 219
+m=0 d=28: 219
+m=0 d=29: 219
+m=0 d=30: 219
+Total shaking: 50005
+Improvement chronology:
+it=1: m=0 d=2
+it=5: m=0 d=1
+it=6: m=0 d=1
+it=10: m=0 d=2
+it=14: m=0 d=1
+it=24: m=0 d=1
+it=95: m=0 d=9
+it=97: m=0 d=2
+it=413: m=0 d=5
+it=779: m=0 d=1
+it=782: m=0 d=1
+it=1556: m=0 d=15
+it=1593: m=0 d=1
+it=2064: m=0 d=1
+it=2091: m=0 d=1
+it=2098: m=0 d=3
+it=2700: m=0 d=12
+it=9222: m=0 d=1
+it=37311: m=0 d=1
+it=37319: m=0 d=1
+Total non-zero simplices: 0
+Total control: 0
+
+
+Min d: 1
+Max d: 30
+Max md: 0
+Max local optima: 0
+Algorithm: TVNS
+Minimization: True
+Max m: 0
+Max m dynamic: False
+Effective max m: 0
+Random seed: 98587
+Max evaluations: 50000
+Evaluations made: 50000
+Iterations made: 50000
+Iteration best found: 49999
+Max execution time: 3600
+Execution time: 36.2805059 seconds
+Second best found: 36.2795057
+Execution start: 4/30/2024 11:48:29 PM
+Execution end: 4/30/2024 11:49:05 PM
+Total local optima found: 8724
+Fitness value: 0.233516483516484
+Objective value: 85
+Feasible: True
+Solution code: 0,2,0,0,2,0,0,1,0,2,0,0,1,0,0,1,0,0,0,2,0,0,0,0,2,0,2,0,0,2,0,0,0,0,2,0,0,0,1,0,0,0,0,0,2,0,0,0,0,2,0,0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,2,0,1,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,2,0,0,0,0,2,0,2,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,2,0,2,0,2,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,2,0,0,0,0,2,0,0,0,2,0,2,0,0,0,2,0,1,0,0,2,0,0,
+Caching: False
+Fitness calls count: 481152
+Cache hit count: 0
+Problem file: romanDomination/instances/grid/grid13x14.txt
+Dimension: 182
+Vertex count: 182
+Edge count: 337
+Improvement counts:
+m=0 d=1: 5
+m=0 d=2: 4
+m=0 d=3: 1
+m=0 d=5: 1
+m=0 d=7: 1
+m=0 d=9: 1
+m=0 d=15: 1
+Total improvements: 14
+MinObj: 84
+MaxObj: 98
+AvgObj: 84.5449335167354
+StdevObj: 1.99774592320017
+BinObj0%: 92.14
+BinObj1%: 1.9
+BinObj2%: 0.93
+BinObj3%: 0.06
+BinObj4%: 0.42
+BinObj5%: 2.44
+BinObj6%: 0.11
+BinObj7%: 1.85
+BinObj8%: 0.01
+BinObj9%: 0.14
+
+
+Shaking counts:
+m=0 d=1: 19613
+m=0 d=2: 9832
+m=0 d=3: 5312
+m=0 d=4: 3024
+m=0 d=5: 1868
+m=0 d=6: 1266
+m=0 d=7: 892
+m=0 d=8: 686
+m=0 d=9: 545
+m=0 d=10: 479
+m=0 d=11: 416
+m=0 d=12: 384
+m=0 d=13: 361
+m=0 d=14: 337
+m=0 d=15: 329
+m=0 d=16: 321
+m=0 d=17: 317
+m=0 d=18: 314
+m=0 d=19: 313
+m=0 d=20: 310
+m=0 d=21: 309
+m=0 d=22: 308
+m=0 d=23: 308
+m=0 d=24: 308
+m=0 d=25: 308
+m=0 d=26: 308
+m=0 d=27: 308
+m=0 d=28: 308
+m=0 d=29: 308
+m=0 d=30: 308
+Total shaking: 50000
+Improvement chronology:
+it=1: m=0 d=1
+it=22: m=0 d=2
+it=23: m=0 d=1
+it=237: m=0 d=2
+it=476: m=0 d=1
+it=493: m=0 d=1
+it=1227: m=0 d=5
+it=1347: m=0 d=15
+it=1446: m=0 d=2
+it=1459: m=0 d=2
+it=1759: m=0 d=9
+it=1829: m=0 d=7
+it=2467: m=0 d=1
+it=4042: m=0 d=3
+Total non-zero simplices: 0
+Total control: 0
+
+
+Min d: 1
+Max d: 30
+Max md: 0
+Max local optima: 0
+Algorithm: TVNS
+Minimization: True
+Max m: 0
+Max m dynamic: False
+Effective max m: 0
+Random seed: 23900
+Max evaluations: 50000
+Evaluations made: 50003
+Iterations made: 50003
+Iteration best found: 50002
+Max execution time: 3600
+Execution time: 35.6555039 seconds
+Second best found: 35.6555039
+Execution start: 4/30/2024 11:48:30 PM
+Execution end: 4/30/2024 11:49:06 PM
+Total local optima found: 12238
+Fitness value: 0.239010989010989
+Objective value: 87
+Feasible: True
+Solution code: 0,2,0,0,1,0,0,2,0,0,0,2,0,0,0,0,2,0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,2,0,0,2,0,2,0,0,0,0,0,2,0,0,2,0,0,0,0,0,2,0,2,0,0,0,1,0,0,0,2,0,0,0,1,0,0,0,2,0,0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,1,2,0,0,0,2,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,1,0,2,0,0,0,2,0,0,0,0,2,0,0,1,0,0,0,2,0,1,0,2,0,0,0,2,0,0,2,0,0,
+Caching: False
+Fitness calls count: 480587
+Cache hit count: 0
+Problem file: romanDomination/instances/grid/grid13x14.txt
+Dimension: 182
+Vertex count: 182
+Edge count: 337
+Improvement counts:
+m=0 d=1: 6
+m=0 d=2: 7
+m=0 d=3: 2
+m=0 d=4: 3
+Total improvements: 18
+MinObj: 86
+MaxObj: 114
+AvgObj: 87.7493871547639
+StdevObj: 1.47956529095834
+BinObj0%: 92.52
+BinObj1%: 5.39
+BinObj2%: 1.76
+BinObj3%: 0.09
+BinObj4%: 0.03
+BinObj5%: 0.15
+BinObj6%: 0.01
+BinObj7%: 0.01
+BinObj8%: 0.02
+BinObj9%: 0.03
+
+
+Shaking counts:
+m=0 d=1: 19564
+m=0 d=2: 9867
+m=0 d=3: 5378
+m=0 d=4: 3062
+m=0 d=5: 1866
+m=0 d=6: 1242
+m=0 d=7: 920
+m=0 d=8: 682
+m=0 d=9: 557
+m=0 d=10: 460
+m=0 d=11: 413
+m=0 d=12: 379
+m=0 d=13: 351
+m=0 d=14: 335
+m=0 d=15: 322
+m=0 d=16: 314
+m=0 d=17: 313
+m=0 d=18: 310
+m=0 d=19: 308
+m=0 d=20: 307
+m=0 d=21: 307
+m=0 d=22: 306
+m=0 d=23: 305
+m=0 d=24: 305
+m=0 d=25: 305
+m=0 d=26: 305
+m=0 d=27: 305
+m=0 d=28: 305
+m=0 d=29: 305
+m=0 d=30: 305
+Total shaking: 50003
+Improvement chronology:
+it=3: m=0 d=3
+it=5: m=0 d=1
+it=7: m=0 d=2
+it=8: m=0 d=1
+it=18: m=0 d=2
+it=37: m=0 d=2
+it=40: m=0 d=2
+it=44: m=0 d=4
+it=53: m=0 d=3
+it=66: m=0 d=4
+it=120: m=0 d=1
+it=142: m=0 d=1
+it=709: m=0 d=2
+it=3406: m=0 d=4
+it=3771: m=0 d=1
+it=3953: m=0 d=2
+it=32617: m=0 d=2
+it=41946: m=0 d=1
+Total non-zero simplices: 0
+Total control: 0
+
+
+Min d: 1
+Max d: 30
+Max md: 0
+Max local optima: 0
+Algorithm: TVNS
+Minimization: True
+Max m: 0
+Max m dynamic: False
+Effective max m: 0
+Random seed: 82602
+Max evaluations: 50000
+Evaluations made: 50004
+Iterations made: 50004
+Iteration best found: 50003
+Max execution time: 3600
+Execution time: 35.8995264 seconds
+Second best found: 35.8995264
+Execution start: 4/30/2024 11:48:31 PM
+Execution end: 4/30/2024 11:49:07 PM
+Total local optima found: 12097
+Fitness value: 0.239010989010989
+Objective value: 87
+Feasible: True
+Solution code: 2,0,0,1,0,2,0,0,1,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,1,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,1,2,0,0,0,0,2,0,0,0,0,2,0,1,0,0,2,0,0,0,0,2,0,0,0,1,0,1,0,0,0,2,0,0,0,0,2,0,0,2,0,2,0,0,0,0,2,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,2,0,2,0,0,0,1,0,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,0,2,0,2,1,0,0,2,0,0,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,2,0,2,0,
+Caching: False
+Fitness calls count: 481937
+Cache hit count: 0
+Problem file: romanDomination/instances/grid/grid13x14.txt
+Dimension: 182
+Vertex count: 182
+Edge count: 337
+Improvement counts:
+m=0 d=1: 12
+m=0 d=2: 5
+m=0 d=3: 2
+m=0 d=4: 1
+m=0 d=5: 2
+m=0 d=6: 1
+Total improvements: 23
+MinObj: 86
+MaxObj: 223
+AvgObj: 87.057286930644
+StdevObj: 2.11501362762544
+BinObj0%: 99.74
+BinObj1%: 0.25
+BinObj2%: 0
+BinObj3%: 0
+BinObj4%: 0
+BinObj5%: 0
+BinObj6%: 0
+BinObj7%: 0.01
+BinObj8%: 0
+BinObj9%: 0.01
+
+
+Shaking counts:
+m=0 d=1: 19605
+m=0 d=2: 9958
+m=0 d=3: 5295
+m=0 d=4: 3000
+m=0 d=5: 1898
+m=0 d=6: 1252
+m=0 d=7: 907
+m=0 d=8: 682
+m=0 d=9: 572
+m=0 d=10: 491
+m=0 d=11: 426
+m=0 d=12: 383
+m=0 d=13: 351
+m=0 d=14: 337
+m=0 d=15: 319
+m=0 d=16: 310
+m=0 d=17: 306
+m=0 d=18: 305
+m=0 d=19: 303
+m=0 d=20: 302
+m=0 d=21: 302
+m=0 d=22: 300
+m=0 d=23: 300
+m=0 d=24: 300
+m=0 d=25: 300
+m=0 d=26: 300
+m=0 d=27: 300
+m=0 d=28: 300
+m=0 d=29: 300
+m=0 d=30: 300
+Total shaking: 50004
+Improvement chronology:
+it=0: m=0 d=1
+it=1: m=0 d=1
+it=2: m=0 d=1
+it=7: m=0 d=3
+it=11: m=0 d=1
+it=39: m=0 d=1
+it=41: m=0 d=2
+it=42: m=0 d=1
+it=43: m=0 d=1
+it=48: m=0 d=1
+it=51: m=0 d=2
+it=65: m=0 d=2
+it=76: m=0 d=6
+it=80: m=0 d=3
+it=96: m=0 d=1
+it=100: m=0 d=4
+it=114: m=0 d=2
+it=119: m=0 d=5
+it=565: m=0 d=5
+it=1092: m=0 d=1
+it=2786: m=0 d=2
+it=11902: m=0 d=1
+it=25734: m=0 d=1
+Total non-zero simplices: 0
+Total control: 0
+
+
+Min d: 1
+Max d: 30
+Max md: 0
+Max local optima: 0
+Algorithm: TVNS
+Minimization: True
+Max m: 0
+Max m dynamic: False
+Effective max m: 0
+Random seed: 24619
+Max evaluations: 50000
+Evaluations made: 50002
+Iterations made: 50002
+Iteration best found: 50001
+Max execution time: 3600
+Execution time: 36.3485213 seconds
+Second best found: 36.3485213
+Execution start: 4/30/2024 11:48:30 PM
+Execution end: 4/30/2024 11:49:07 PM
+Total local optima found: 11318
+Fitness value: 0.236263736263736
+Objective value: 86
+Feasible: True
+Solution code: 0,2,0,1,0,0,2,0,1,0,0,2,0,1,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,1,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,2,0,2,0,0,1,0,2,0,0,1,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,1,0,0,2,0,2,0,0,2,0,0,0,2,0,0,1,0,0,0,2,0,0,0,2,0,0,0,2,0,0,2,0,
+Caching: False
+Fitness calls count: 484373
+Cache hit count: 0
+Problem file: romanDomination/instances/grid/grid13x14.txt
+Dimension: 182
+Vertex count: 182
+Edge count: 337
+Improvement counts:
+m=0 d=1: 7
+m=0 d=2: 1
+m=0 d=3: 2
+m=0 d=4: 3
+m=0 d=13: 1
+Total improvements: 14
+MinObj: 85
+MaxObj: 101
+AvgObj: 86.5979855098074
+StdevObj: 1.28555921321781
+BinObj0%: 49.14
+BinObj1%: 48.07
+BinObj2%: 0.43
+BinObj3%: 1.75
+BinObj4%: 0.23
+BinObj5%: 0.09
+BinObj6%: 0.17
+BinObj7%: 0.06
+BinObj8%: 0.03
+BinObj9%: 0.03
+
+
+Shaking counts:
+m=0 d=1: 19486
+m=0 d=2: 9913
+m=0 d=3: 5408
+m=0 d=4: 3043
+m=0 d=5: 1859
+m=0 d=6: 1238
+m=0 d=7: 923
+m=0 d=8: 691
+m=0 d=9: 576
+m=0 d=10: 476
+m=0 d=11: 412
+m=0 d=12: 379
+m=0 d=13: 359
+m=0 d=14: 342
+m=0 d=15: 328
+m=0 d=16: 319
+m=0 d=17: 312
+m=0 d=18: 308
+m=0 d=19: 306
+m=0 d=20: 303
+m=0 d=21: 303
+m=0 d=22: 302
+m=0 d=23: 302
+m=0 d=24: 302
+m=0 d=25: 302
+m=0 d=26: 302
+m=0 d=27: 302
+m=0 d=28: 302
+m=0 d=29: 302
+m=0 d=30: 302
+Total shaking: 50002
+Improvement chronology:
+it=6: m=0 d=4
+it=13: m=0 d=4
+it=44: m=0 d=1
+it=87: m=0 d=2
+it=92: m=0 d=4
+it=93: m=0 d=1
+it=125: m=0 d=1
+it=207: m=0 d=1
+it=241: m=0 d=1
+it=768: m=0 d=1
+it=965: m=0 d=3
+it=8316: m=0 d=3
+it=22576: m=0 d=13
+it=38352: m=0 d=1
+Total non-zero simplices: 0
+Total control: 0
+

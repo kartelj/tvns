@@ -1,0 +1,7 @@
+﻿Obj=Objective value: (.+)
+Time=Execution time: (.+) seconds
+ImprCnt=Total improvements: (.+)
+SimpCnt=Total non-zero simplices: (.+)
+TotOptim=Total local optima found: (.+)
+AdjImprCnt=Adjusted better: (.+)
+NonAdjImprCnt=Non-adjusted better: (.+)

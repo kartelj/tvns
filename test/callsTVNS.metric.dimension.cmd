@@ -1,0 +1,2 @@
+bulkExecutor.exe callsTVNS.metric.dimension.m0.txt randomSeeds.From.Random.Org.txt statConf.txt 10
+bulkExecutor.exe callsTVNS.metric.dimension.m1.md5.txt randomSeeds.From.Random.Org.txt statConf.txt 10
